@@ -1,0 +1,7 @@
+# This is a comment
+!forbiddenword
+these
+are
+my
+favorite
+words
